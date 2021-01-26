@@ -2,13 +2,15 @@ questa
 è
 una
 mia
-poesiola
+poesiola, già, una poesiola
 
 aggiunta di un paio
 di versi
 
 nuova aggiunta
 di versi
+
+ricorda questo verso!
 
 Aggiunta di 
 un
@@ -19,3 +21,10 @@ un secondo ramino
 
 edit del
 tronco maestro
+
+main editato
+dopo il merge
+dei rami
+
+questo è
+nantroRamo
