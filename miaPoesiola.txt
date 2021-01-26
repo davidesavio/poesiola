@@ -2,7 +2,7 @@ questa
 è
 una
 mia
-poesiola
+poesiola, già, una poesiola
 
 aggiunta di un paio
 di versi
@@ -20,6 +20,3 @@ tronco maestro
 main editato
 dopo il merge
 dei rami
-
-edit main
-presecondomerge
