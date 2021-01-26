@@ -20,3 +20,6 @@ tronco maestro
 main editato
 dopo il merge
 dei rami
+
+edit main
+presecondomerge
